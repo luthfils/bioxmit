@@ -9,8 +9,8 @@
                     <!-- Logo
                     ============================================= -->
                     <div id="logo">
-                        <a href="index.html" class="standard-logo" data-dark-logo="/frontend/assets/logo/logo-mit-light.svg"><img src="/frontend/assets/logo/logo-mit-light.svg" alt="Canvas Logo"></a>
-                        <a href="index.html" class="retina-logo" data-dark-logo="/frontend/assets/logo/logo-mit-light.svg"><img src="/frontend/assets/logo/logo-mit-light.svg" alt="Canvas Logo"></a>
+                        <a href="index.html" class="standard-logo" data-dark-logo="../frontend/assets/logo/logo-mit-light.svg"><img src="../frontend/assets/logo/logo-mit-light.svg" alt="Canvas Logo"></a>
+                        <a href="index.html" class="retina-logo" data-dark-logo="../frontend/assets/logo/logo-mit-light.svg"><img src="../frontend/assets/logo/logo-mit-light.svg" alt="Canvas Logo"></a>
                     </div><!-- #logo end -->
 
                     <div class="header-misc d-none d-sm-block">

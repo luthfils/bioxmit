@@ -25,7 +25,7 @@
                         </div>
 
                         <div class="col-lg-6 text-center animate__animated animate__fadeInUp animate__delay-100ms">
-                            <img class="w-80" src="/frontend/assets/images/coming-soon.svg" alt="coming soon">
+                            <img class="w-80" src="../frontend/assets/images/coming-soon.svg" alt="coming soon">
                         </div>
                     </div>
                 </div>

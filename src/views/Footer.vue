@@ -14,7 +14,7 @@
                         <div class="row">
                             <div class="col-lg-8">
                                 <div class="clearfix mb-4" data-animate="fadeInUp" data-delay="10">
-                                    <img src="/frontend/assets/logo/logo-mit-light.svg" alt="Image" class="">
+                                    <img src="../frontend/assets/logo/logo-mit-light.svg" alt="Image" class="">
                                 </div>
                                 <div class="clearfix" data-animate="fadeInUp" data-delay="20">
                                     <p class="mb-0 fc-muted">Solutions to existing problems, developed through collaborative, intense, and innovative teamwork in a short amount of time.</p>

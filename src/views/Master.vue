@@ -18,8 +18,8 @@
                             <div class="row align-items-center gx-6 gy-6">
                                 <div class="col-lg-6 text-md-start">
                                     <div class="logo mb-3">
-                                        <img class="me-2 animate__animated animate__fadeInUp animate__delay-100ms" src="/frontend/assets/logo/biofarma-white.svg" alt="Image">
-                                        <img class="animate__animated animate__fadeInUp animate__delay-200ms" src="/frontend/assets/logo/mit.svg" alt="Image">
+                                        <img class="me-2 animate__animated animate__fadeInUp animate__delay-100ms" src="../frontend/assets/logo/biofarma-white.svg" alt="Image">
+                                        <img class="animate__animated animate__fadeInUp animate__delay-200ms" src="../frontend/assets/logo/mit.svg" alt="Image">
                                     </div>
                                     <div class="emphasis-title bottommargin-sm">
                                         <h1 class="fw-900 mb-3 animate__animated animate__fadeInUp animate__delay-300ms">
@@ -75,7 +75,7 @@
                                 </div>
 
                                 <div class="col-lg-6 text-center animate__animated animate__fadeInUp animate__delay-100ms">
-                                    <img src="/frontend/assets/images/header.svg" alt="Header">
+                                    <img src="../frontend/assets/images/header.svg" alt="Header">
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                         1
                                     </div>
                                     <div class="icon my-4">
-                                        <img src="/frontend/assets/images/carbon_events-alt.svg" alt="">
+                                        <img src="../frontend/assets/images/carbon_events-alt.svg" alt="">
                                     </div>
                                     <h4 class="my-3">Collaborate and generate ideas with other participants</h4>
                                 </div>
@@ -149,7 +149,7 @@
                                         2
                                     </div>
                                     <div class="icon my-4">
-                                        <img src="/frontend/assets/images/carbon_idea.svg" alt="">
+                                        <img src="../frontend/assets/images/carbon_idea.svg" alt="">
                                     </div>
                                     <h4 class="my-3">Hack the problem and shape the solution
                                     </h4>
@@ -161,7 +161,7 @@
                                         3
                                     </div>
                                     <div class="icon my-4">
-                                        <img src="/frontend/assets/images/carbon_collaborate.svg" alt="">
+                                        <img src="../frontend/assets/images/carbon_collaborate.svg" alt="">
                                     </div>
                                     <h4 class="my-3">Receive feedback from mentors
                                     </h4>
@@ -173,7 +173,7 @@
                                         4
                                     </div>
                                     <div class="icon my-4">
-                                        <img src="/frontend/assets/images/carbon_group-presentation.svg" alt="">
+                                        <img src="../frontend/assets/images/carbon_group-presentation.svg" alt="">
                                     </div>
                                     <h4 class="my-3">Present your solution to the judging panel
                                     </h4>
@@ -185,7 +185,7 @@
                                         5
                                     </div>
                                     <div class="icon my-4">
-                                        <img src="/frontend/assets/images/carbon_trophy.svg" alt="">
+                                        <img src="../frontend/assets/images/carbon_trophy.svg" alt="">
                                     </div>
                                     <h4 class="my-3">Announcement of the winners and runners-up</h4>
                                 </div>
@@ -633,13 +633,13 @@
 
                                 <div class="row align-items-stretch">
 
-                                    <div data-animate="fadeInLeft" data-delay="40" class="col-lg-4 d-none d-md-block" style="background: url('/frontend/assets/images/participant.jpg') center center no-repeat; background-size: cover;"></div>
+                                    <div data-animate="fadeInLeft" data-delay="40" class="col-lg-4 d-none d-md-block" style="background: url('../frontend/assets/images/participant.jpg') center center no-repeat; background-size: cover;"></div>
                                     <div class="col-lg-8">
                                         <div class="row align-items-stretch grid-border clearfix">
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="50">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/user.svg" alt="">
+                                                        <img src="../frontend/assets/images/user.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Business Strategist</h4>
@@ -649,7 +649,7 @@
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="60">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/pentool.svg" alt="">
+                                                        <img src="../frontend/assets/images/pentool.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Designer</h4>
@@ -659,7 +659,7 @@
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="70">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/user-plus.svg" alt="">
+                                                        <img src="../frontend/assets/images/user-plus.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Health Professionals</h4>
@@ -669,7 +669,7 @@
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="80">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/activity.svg" alt="">
+                                                        <img src="../frontend/assets/images/activity.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Patients</h4>
@@ -679,7 +679,7 @@
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="90">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/briefcase.svg" alt="">
+                                                        <img src="../frontend/assets/images/briefcase.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Entrepreneurs</h4>
@@ -689,7 +689,7 @@
                                             <div class="col-lg-4 col-md-6 col-padding" data-animate="fadeInUp" data-delay="100">
                                                 <div class="feature-box fbox-center fbox-dark fbox-plain">
                                                     <div class="fbox-icon">
-                                                        <img src="/frontend/assets/images/code.svg" alt="">
+                                                        <img src="../frontend/assets/images/code.svg" alt="">
                                                     </div>
                                                     <div class="fbox-content fbox-content-sm">
                                                         <h4>Developers</h4>
@@ -716,7 +716,7 @@
                             <div class="row clearfix mt-6 gx-6">
 
                                 <div data-animate="fadeInUp" data-delay="30" class="col-lg-6 mb-5">
-                                    <img src="/frontend/assets/images/winner.svg" alt="Winner">
+                                    <img src="../frontend/assets/images/winner.svg" alt="Winner">
                                 </div>
 
                                 <div class="col-lg-6">
@@ -783,49 +783,49 @@
                             <div class="list clearfix mt-6" data-animate="fadeInUp" data-delay="30">
                                 <div class="row gy-2">
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/BUMN.png" alt="Image">
+                                        <img src="../frontend/assets/partners/BUMN.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/biofarma.svg" alt="Image">
+                                        <img src="../frontend/assets/partners/biofarma.svg" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/kimia-farma.svg" alt="Image">
+                                        <img src="../frontend/assets/partners/kimia-farma.svg" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/indofarma.svg" alt="Image">
+                                        <img src="../frontend/assets/partners/indofarma.svg" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Mediverse.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Mediverse.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Medevo.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Medevo.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Medwell.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Medwell.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Medbiz.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Medbiz.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Q100.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Q100.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/google-cloud.svg" alt="Image">
+                                        <img src="../frontend/assets/partners/google-cloud.svg" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Hello-Sehat.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Hello-Sehat.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Pemimpin.id.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Pemimpin.id.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Jabar-Digital-Service.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Jabar-Digital-Service.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/1001-Startup-Digital.png" alt="Image">
+                                        <img src="../frontend/assets/partners/1001-Startup-Digital.png" alt="Image">
                                     </div>
                                     <div class="col-xl-2 col-lg-3 col-md-4 col-6 p-4 center d-flex align-items-center justify-content-center">
-                                        <img src="/frontend/assets/partners/Agility-Transformation.png" alt="Image">
+                                        <img src="../frontend/assets/partners/Agility-Transformation.png" alt="Image">
                                     </div>
                                 </div>
                             </div>
